@@ -17,6 +17,7 @@ The **InstaCloneDB** project is a relational database designed to mimic the core
 - **Data Integrity**: Store media content like images and videos in URL format, maintaining data integrity.
 - **Realistic Dataset**: Efforts and research have been dedicated to presenting data in its true storage form.
 - **SQL Query Insights**: Our SQL queries reveal the intricate connections and interrelations between different activities on a social media platform.
+- **Frontend Integration**: **InstaCloneDB** is designed with the intention of being easily connectable to a frontend interface, making it an ideal choice for developing social media applications.
 
 With **InstaCloneDB**, we've aimed to create a simple yet precise representation of a basic social interconnecting site. The project not only provides a learning resource for SQL enthusiasts but also serves as a solid foundation for building social media applications with real-world data.
 
@@ -42,4 +43,8 @@ With **InstaCloneDB**, we've aimed to create a simple yet precise representation
 
 Each table serves a specific purpose within the database and plays a vital role in capturing the essence of a social media platform.
 
+
+
+
+### Feedback
   
