@@ -22,7 +22,7 @@ With **InstaCloneDB**, we've aimed to create a simple yet precise representation
 
 
 
-# Database Tables
+# Database Tables 🧾 🧾
 
 **InstaCloneDB** consists of the following tables:
 
