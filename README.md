@@ -9,7 +9,7 @@ The **InstaCloneDB** project is a relational database designed to mimic the core
 </div>
 
 
-### Project Highlights
+# Project Highlights
 
 - **User Management**: Efficiently manage user profiles, including user information and interests.
 - **Interactions**: Capture various user activities, including post likes, comments, comment likes, and more.
@@ -22,7 +22,7 @@ With **InstaCloneDB**, we've aimed to create a simple yet precise representation
 
 
 
-### Database Tables
+# Database Tables
 
 **InstaCloneDB** consists of the following tables:
 
