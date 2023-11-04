@@ -9,12 +9,15 @@ The **InstaCloneDB** project is a relational database designed to mimic the core
 </div>
 
 
-## Key Features
+### Project Highlights
 
-- User management: Create, update, and manage user profiles.
-- Media content: Store photos and videos associated with user posts.
-- Social interactions: Implement user follows, likes, comments, and more.
-- Hashtags: Tag and categorize posts with hashtags for easy discovery.
-- Data Analysis: Explore user engagement, post trends, and more through SQL queries.
+- **User Management**: Efficiently manage user profiles, including user information and interests.
+- **Interactions**: Capture various user activities, including post likes, comments, comment likes, and more.
+- **Hashtags and Bookmarks**: Categorize posts with hashtags for easy discovery and bookmark posts for future reference.
+- **Data Integrity**: Store media content like images and videos in URL format, maintaining data integrity.
+- **Realistic Dataset**: Efforts and research have been dedicated to presenting data in its true storage form.
+- **SQL Query Insights**: Our SQL queries reveal the intricate connections and interrelations between different activities on a social media platform.
+
+With **InstaCloneDB**, we've aimed to create a simple yet precise representation of a basic social interconnecting site. The project not only provides a learning resource for SQL enthusiasts but also serves as a solid foundation for building social media applications with real-world data.
 
   
