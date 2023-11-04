@@ -1,4 +1,6 @@
-# InstaCloneDB
+<div align="center">
+  <h1 style="color: red;">InstaCloneDB</h1>
+</div>
 
 The **InstaCloneDB** project is a relational database designed to mimic the core functionalities of a social media platform, such as Instagram. This database is created for data analysis and exploration, offering a structured and realistic dataset that you can use to practice SQL queries, conduct data analysis, or develop data-driven applications.  While it is primarily designed for PostgreSQL, the SQL language and concepts can be applied to other relational databases as all the SQL languages have simillar syntax.
 
