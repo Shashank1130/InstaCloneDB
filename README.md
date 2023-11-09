@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 style="color: red;">InstaCloneDB</h1>
+  <h1 style="color: red;">InstaDBMirror</h1>
 </div>
 
-The **InstaCloneDB** project is a relational database designed to mimic the core functionalities of a social media platform, such as Instagram. This database is created for data analysis and exploration, offering a structured and realistic dataset that you can use to practice SQL queries, conduct data analysis, or develop data-driven applications.  While it is primarily designed for PostgreSQL, the SQL language and concepts can be applied to other relational databases as all the SQL languages have simillar syntax.
+The **InstaDBMirror** project is a relational database designed to mimic the core functionalities of a social media platform, such as Instagram. This database is created for data analysis and exploration, offering a structured and realistic dataset that you can use to practice SQL queries, conduct data analysis, or develop data-driven applications.  While it is primarily designed for PostgreSQL, the SQL language and concepts can be applied to other relational databases as all the SQL languages have simillar syntax.
 
 <div align="center">
   <img width="638" alt="image" src="https://github.com/Shashank1130/InstaCloneDB/assets/107529934/accc4efe-e9d6-473a-9a4e-13f016e3bf13">
