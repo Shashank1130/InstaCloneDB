@@ -47,5 +47,5 @@ Each table serves a specific purpose within the database and plays a vital role 
 
 
 ### Feedback
-I value your feedback and suggestions to improve **InstaCloneDB**. If you have any ideas, questions, or feedback, please don't hesitate to reach out. Your insights are important to me in making this project even better.
+I value your feedback and suggestions to improve **InstaDBMirror**. If you have any ideas, questions, or feedback, please don't hesitate to reach out. Your insights are important to me in making this project even better.
 - Email: [shashankdubey1130@gmail.com](mailto:shashankdubey1130@gmail.com)
